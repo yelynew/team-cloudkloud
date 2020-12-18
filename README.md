@@ -121,6 +121,6 @@ You can show your present setting condition at a look.
 
 If you have false things, you need to restore them correctly through our __guidelines.__
 
-<img width="1200" alt="settingcheck" src="https://user-images.githubusercontent.com/54059519/102458895-40185b00-4088-11eb-99df-cf544e8fd6a4.png">
+<img width="1200" alt="settingcheck" src="https://user-images.githubusercontent.com/76162371/102596271-46780700-415c-11eb-8d42-9b1a5276c199.png">
 
 

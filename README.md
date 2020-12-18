@@ -21,7 +21,7 @@ However, You need to [set](https://github.com/jgunha/CloudKloud "Cloud?Kloud!")
 
 You can check the region which is activated by blacklist IP.
 
-You can download Blacklist IP in [here]("https://rescure.me/index.html")
+You can download Blacklist IP in [here](https://rescure.me/index.html)
 
 But, you can set the list whatever you want by editing BlasklistIP.txt
 
